@@ -22,6 +22,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skulllabs)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/skulllabs)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skulllabsin)
+![](https://img.shields.io/badge/Skull_Labs-RE_Dev-black?style=for-the-badge&logo=skeleton&logoColor=white)
 
 </div>
 
